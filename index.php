@@ -1,3 +1,4 @@
+<?php // This is the main page for Greenfield Sports Centre ?>
 <html lang="en-GB">
 <head>
   <title>Greenfield Sports Centre</title>
