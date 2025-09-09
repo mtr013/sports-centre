@@ -1,5 +1,5 @@
 <?php
-    require_once("db_connect.php"); // Make sure this file returns a working $conn
+    require_once("db_connect.php");
 
     function booking() {
         if (isset($_POST['mem_id']) && isset($_POST['sport_id'])) {
