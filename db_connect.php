@@ -4,7 +4,7 @@
       $servername = "localhost";
       $username = "root";
       $password = "";
-      $dbname = "SurreySportsPark";
+      $dbname = "GreenfieldSportsCentre";
       $port = "3306";
 
       // Create a connection to MySQL

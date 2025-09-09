@@ -1,6 +1,6 @@
 <html lang="en-GB">
 <head>
-  <title>Surrey Sports Park</title>
+  <title>Greenfield Sports Centre</title>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
     </ul>
   </header>
   <div id="about">
-    <h1>Welcome to Surrey Sports Park!</h1>
+    <h1>Welcome to Greenfield Sports Centre!</h1>
     <hr>
     <p>There are many sports available, both indoors and outdoors!</p>
   </div>
@@ -44,6 +44,8 @@
     </table>
   </div>
   <hr>
-  <footer title="Contacts">Address & Contacts:<br>Surrey Sports Park, University of Surrey, Richard Meyjes Road, Guildford Surrey, GU2 7AD Tel. 01483 689111</footer>
-</body>
+  <footer class="footer" title="Contacts">
+    Address & Contacts:<br>
+    Greenfield Sports Centre, 123 Park Lane, Greenfield, GF1 2AB Tel. 01234 567890
+  </footer></body>
 </html>

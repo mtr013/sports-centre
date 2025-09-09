@@ -31,8 +31,8 @@
           } else {
             $dateofbirth = test_input($_POST["dateofbirth"]);
             // check if date of birth is well-formed
-            if (!preg_match("~^\d{2}/\d{2}/\d{4}$~"),$dateofbirth) {
-              $dateofbirthErr = "YYYY/MM/DD required";
+            if (!preg_match("~^\d{2}/\d{2}/\d{4}$~", $dateofbirth)) {
+              $dateofbirthErr = "DD/MM/YYYY required";
             }
           }
 
