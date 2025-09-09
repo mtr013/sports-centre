@@ -1,0 +1,120 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: optima;
+  color: white;
+  font-size: 125%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  opacity: 0.5;
+  transition: 1s;
+}
+
+img {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+img:hover {
+  color: gray;
+}
+
+input[type=submit] {
+  background-color: white;
+  text-align: center;
+  border: none;
+  font-family: optima;
+  color: black;
+  font-weight: bold;
+  padding: 4px 13px;
+  text-decoration: none;
+  margin: 4px 2px;
+}
+
+input[type=submit]:hover {
+  color: gray;
+  transform: scale(0.75);
+  transition: 1s;
+}
+
+.header ul {
+  background-color: white;
+  text-align: center;
+  font-size: 125%;
+}
+
+.header ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 20px 75px;
+}
+
+.header ul li a {
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+.header ul li a:hover {
+  color: gray;
+  transform: scale(1.25);
+  transition: 1s;
+}
+
+.footer {
+  list-style-type: none;
+  display: block;
+  padding: 20px 75px;
+}
+
+p {
+  color: gray;
+  text-align: center;
+}
+
+hr {
+  border-color: dimgray;
+}
+
+#sports table {
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  margin-bottom: 100px;
+  border-collapse: collapse;
+  border: 1px solid dimgray;
+}
+
+#sports th {
+  width: 250px;
+  height: 50px;
+  text-align: center;
+  border: 1px solid dimgray;
+  background-color: white;
+}
+
+#sports td {
+  width: 250px;
+  text-align: center;
+  border: 1px solid dimgray;
+  background-color: black;
+  padding: 10px;
+}
+
+#sports img {
+  width: 160px;
+  height: 106.5px;
+}
+
+#sports img:hover {
+  transform: scale(1.25);
+  transition: 1s;
+}
